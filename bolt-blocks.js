@@ -18,7 +18,7 @@ class BoltBlocks {
         }
     };
     reporter({text}) {
-        return text
+        return text;
     };
 }
 Scratch.extensions.register(new BoltBlocks());
