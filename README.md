@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Hey there!
 
-You can use the [editor on GitHub](https://github.com/bolt1117/bolt1117.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my website!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+View this website on github at github.com/bolt1117/bolt1117.github.io
 
 ### Markdown
 
