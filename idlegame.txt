@@ -6,3 +6,5 @@ Let's make a game!
   updated: 8/7/2020
   version: 1.0
   
+Settings:
+  
