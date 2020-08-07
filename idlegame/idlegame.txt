@@ -1,7 +1,7 @@
 Let's make a game!
   name:  Factory Simulator
   author: bolt1117
-  desc: F A C T O R Y
+  desc: F A C T O R Y (Background image from Wikipedia)
   created: 8/7/2020
   updated: 8/7/2020
   version: 1.0
