@@ -7,4 +7,4 @@ Let's make a game!
   version: 1.0
   
 Settings:
-  
+  background:bolt1117.github.io/idlegame/background_img.jpg
